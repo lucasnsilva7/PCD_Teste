@@ -1,2 +1,2 @@
 # PCD_Teste
-Soma, diminui, aumenta área
+Teste para projeto em sala de aula
